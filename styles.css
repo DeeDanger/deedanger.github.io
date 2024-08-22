@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(194, 224, 224);
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h3 {
+  color: brown;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  width: auto;
+  background-color: blueviolet;
+}
